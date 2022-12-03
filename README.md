@@ -14,5 +14,5 @@ Welcome! Do you own an online web store and need help with organizing product,up
 ## Usage
 ONLY FOR PERSONAL USE
         
-## Dimenstartion Video
+## Demonstration Video
 https://youtu.be/CgBq8lWyrUc
